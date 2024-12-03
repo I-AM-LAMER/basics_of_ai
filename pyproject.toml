@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ai_tasks"
+version = "0.1.0"
+description = ""
+package-mode = false
+authors = ["Vadim Tatarnikov <tatarnikovvadim@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+dash = "^2.18.2"
+pandas = "^2.2.3"
+dash-bootstrap-components = "^1.6.0"
+scikit-learn = "^1.5.2"
+prettytable = "^3.12.0"
+openpyxl = "^3.1.5"
